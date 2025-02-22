@@ -20,3 +20,4 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://api.morph.io/philippnagel/gwatch-scraper/data.json?key=XlA5bxJ2LEliNd0GJBQz&query=select%20*%20from%20%22certificates%22
+          downloaded_filename: data.json
