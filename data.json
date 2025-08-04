@@ -7441,4 +7441,53 @@
 ,{"company":"co.met GmbH","certificate_number":"DC00530","valid_until":"14.01.2026","timestamp":"2025-08-02T08:04:02.000+00:00"}
 ,{"company":"COUNT+ CARE GmbH \u0026 Co. KG","certificate_number":"DSC.1315.10.2023","valid_until":"31.10.2026","timestamp":"2025-08-02T08:04:02.000+00:00"}
 ,{"company":"BTC IT Services GmbH","certificate_number":"01 153 2200422","valid_until":"30.10.2025","timestamp":"2025-08-02T08:04:02.000+00:00"}
+,{"company":"Arvato Systems Digital GmbH","certificate_number":"511238 ISMS22","valid_until":"31.05.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"COUNT+ CARE GmbH \u0026 Co. KG","certificate_number":"DSC.1315.10.2023","valid_until":"31.10.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"DIGImeto GmbH \u0026 Co. KG","certificate_number":"01 153 2200747/13","valid_until":"30.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Dessauer Versorgungs- und Verkehrsgesellschaft mbH - DVV Stadtwerke","certificate_number":"44 121 170950","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Discovergy GmbH","certificate_number":"01 153 1500713","valid_until":"30.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Dortmunder Energie- und Wasserversorgung\n\nGmbH","certificate_number":"44 121 171557","valid_until":"16.12.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"naturenergie netze GmbH","certificate_number":"IT-SiKat 22187-Z03455","valid_until":"01.03.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"EE Infratec GmbH","certificate_number":"ZN-2022-20","valid_until":"11.09.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"E.ON Grid Solutions GmbH","certificate_number":"DSC.1226.10.2023","valid_until":"29.10.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"EnBW AG","certificate_number":"TA420243018886","valid_until":"30.01.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Energie- und Wasserversorgung Hamm GmbH","certificate_number":"RSMCERT.2024.08","valid_until":"07.04.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Entiregy GmbH \u0026 Co. KG","certificate_number":"DS-092206/1","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"enwor - energie \u0026 wasser vor ort GmbH","certificate_number":"532646 ISENG","valid_until":"08.12.2023","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"GISA GmbH, Halle","certificate_number":"44 121 161208","valid_until":"19.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"GkD - Gesellschaft für kommunale Dienstleistungen mbH","certificate_number":"BSI-IGZ-0418-2020","valid_until":"27.06.2023","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"GWAdriga GmbH \u0026 Co. KG","certificate_number":"01 153 1900431","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Hausheld AG","certificate_number":"ZN-2021-41","valid_until":"16.12.2024","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"KEW Kommunale Energie- und Wasserversorgung AG","certificate_number":"ZN-2024-14","valid_until":"28.01.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"KISTERS AG","certificate_number":"01 153 1700317","valid_until":"04.10.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"MeteringSüd GmbH \u0026 CO. KG","certificate_number":"01 153 1800582","valid_until":"25.07.2024","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"MeterPan GmbH","certificate_number":"TA420233017018","valid_until":"03.07.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"metiundo GmbH","certificate_number":"01 153 2300582","valid_until":"21.02.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Mitteldeutsche Netzgesellschaft Strom mbH","certificate_number":"12 310 55148\n\nTMS","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"regio iT gesellschaft für Informationstechnologie mbh","certificate_number":"367902 ISMS 17","valid_until":"14.07.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"rku.it GmbH","certificate_number":"RSMCERT.2025.05","valid_until":"23.02.2028","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Schleupen SE","certificate_number":"DC00528","valid_until":"21.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"smart OPTIMO GmbH \u0026 CO. KG","certificate_number":"01 153 1600123","valid_until":"30.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Soluvia Energy Services GmbH","certificate_number":"01 153 1900451","valid_until":"08.09.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stadtwerk am See GmbH \u0026 Co. KG","certificate_number":"ZN-2021-28_1","valid_until":"28.01.2024","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stadtwerke Bochum Holding GmbH","certificate_number":"536486 ISMS2217","valid_until":"24.05.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stadtwerke Rostock Netzgesellschaft GmbH","certificate_number":"ZN-2021-23 V1.0","valid_until":"27.05.2024","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stadtwerke Schwäbisch Hall GmbH","certificate_number":"513715 ISMS17","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stadtwerke Schwerin GmbH","certificate_number":"12 310 61820 TMS","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stromnetz Berlin GmbH","certificate_number":"K-0208743","valid_until":"07.02.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Stromnetz Hamburg GmbH","certificate_number":"DSC.1176.12.2022","valid_until":"05.12.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"SWM Services GmbH","certificate_number":"067367 ISMS22","valid_until":"19.02.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Syna GmbH","certificate_number":"12 310 63501 TMS.","valid_until":"05.06.2028","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Teleseo GmbH","certificate_number":"DSC.1236.07.2023","valid_until":"30.07.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Thüga SmartService GmbH","certificate_number":"BSI-IGZ-0557-2023","valid_until":"05.03.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"TMZ Thüringer Mess- und Zählerwesen Service GmbH","certificate_number":"TIC 15 124 20001","valid_until":"02.07.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Tremondi GmbH","certificate_number":"TA420243019533","valid_until":"04.02.2028","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"TWL Metering GmbH","certificate_number":"01 075 1900447","valid_until":"30.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Überlandwerk Mittelbaden GmbH \u0026 Co. KG","certificate_number":"DC00555","valid_until":"26.11.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"VIVAVIS AG","certificate_number":"12 310 21928/02 TMS","valid_until":"31.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Voltaris GmbH","certificate_number":"44 121 170334","valid_until":"15.06.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"WSW Energie \u0026 Wasser AG","certificate_number":"DSC.1396.09.2024","valid_until":"26.09.2027","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"co.met GmbH","certificate_number":"DC00530","valid_until":"14.01.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"Auxilius Services GmbH","certificate_number":"DSC.1213.04.2023","valid_until":"01.04.2026","timestamp":"2025-08-03T13:18:43.000+00:00"}
+,{"company":"BTC IT Services GmbH","certificate_number":"01 153 2200422","valid_until":"30.10.2025","timestamp":"2025-08-03T13:18:43.000+00:00"}
 ]
